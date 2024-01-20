@@ -3,12 +3,13 @@ import axios from 'axios';
 import bodyParser from 'body-parser';
 
 const app = express();
-const port = 3000;
 
 app.use(express.static('public'));
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+
+const port = process.env.PORT || 3000;
 
 app.post('/api/endpoint', async (req, res) => {
     try {
