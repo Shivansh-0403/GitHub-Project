@@ -42,6 +42,10 @@ Better option.. use nodemon
   nodemon server.js
 ```
 
+## Sample Output
+![image](https://github.com/Shivansh-0403/GitHub-Project/assets/113630031/41040181-fc3b-4051-a003-f37f25eda039)
+
+[Video Link](https://drive.google.com/file/d/1LtTaIxTIPYuWubFz-QrLos2SeXkQbCF0/view?usp=sharing)
 
 ## Authors
 
