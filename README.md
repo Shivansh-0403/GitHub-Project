@@ -1,7 +1,7 @@
 
 # GitHub API Project
 
-A project to test fundamental skills in Web Development by fetching data from GitHub REST API and displaying users' information and repositories on screen with proper pagination.
+A project to test fundamental skills in Web Development by fetching user data from GitHub REST API and displaying the information and repositories with proper pagination.
 
 Tech Stack :- HTML, CSS, JS, Express, Axios, Bootstrap
 
